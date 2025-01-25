@@ -1,0 +1,36 @@
+Quartus Prime Archive log --	C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2_tmp_archive.qarlog
+
+Archive:	C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2_tmp_archive.qar
+Date:		Thu Feb 15 18:39:12 2024
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Standard Edition
+
+	=========== Files Selected: ===========
+C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2.qpf
+C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2.tcl
+C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2_top.qsf
+C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2_top.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2_top_assignment_defaults.qdf
+C:/Users/svtuczyn/ECE-124/Lab 2/PB_Inverters.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/SevenSegment.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/Waveform1 (Johnathan, 1).vwf
+C:/Users/svtuczyn/ECE-124/Lab 2/Waveform1 (Stefan, 2).vwf
+C:/Users/svtuczyn/ECE-124/Lab 2/full_adder_1bit.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/full_adder_4bit.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/hex_mux.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/logical_processor.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/output_files/two_one_mux.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/pb_inverters.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/segment7_mux.vhd
+C:/Users/svtuczyn/ECE-124/Lab 2/waveform.vwf
+C:/Users/svtuczyn/ECE-124/Lab 2/waveform1.vwf
+C:/Users/svtuczyn/ECE-124/Lab 2/waveform10.vwf
+	======= Total: 19 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Feb 15 18:39:14 2024
+Source archive file:	C:/Users/svtuczyn/ECE-124/Lab 2/LogicalStep_Lab2_tmp_archive.qar
+Archive was extracted into	C:/Users/svtuczyn/Downloads/LAB 2 DUP/
+		 - successfully.
